@@ -1,7 +1,6 @@
 /* #0C2855 #4071EF;*/
 
 * {
-    outline: 1px solid red !important;
     box-sizing: border-box; 
 }
 
@@ -425,3 +424,9 @@ footer {
 }
 
 /* END FOOTER*/
+
+/*
+
+TO-DO MOBILE MEDIA QUERIES
+
+*/
